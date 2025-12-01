@@ -1,2 +1,1 @@
-# UI
-Frontend design with React
+# coding-project-template
